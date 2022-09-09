@@ -35,3 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # blog-with-microcms
 # blog-with-microcms
 # blog-with-microcms
+# microcms-nextjs-jamstack
